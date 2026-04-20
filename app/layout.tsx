@@ -19,7 +19,7 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Art Forum",
+  title: "Art Forum 2",
   description: "",
 };
 
